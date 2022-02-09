@@ -6,6 +6,9 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.154" />
         <entry key="app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.16" />
         <entry key="app/src/main/res/drawable/splash_background.xml" value="0.154" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.15052083333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15052083333333333" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.25" />
       </map>
     </option>
   </component>
